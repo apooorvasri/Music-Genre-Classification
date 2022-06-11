@@ -34,7 +34,7 @@ Audio features are primarily from 2 domains:<br/>
 KMC performed very poorly for the given feature values of the selected dataset because it tries to create clusters using the nearby values.<br/>
 KNN performed well over the same given dataset because it takes only k values nearest to itself, which is a much better measure to differentiate between different genres.<br/>
 SVM : In case of polynomial model, the accuracy slightly decreases compared to the KNN model. Whereas the linear models shows slight improvement in accuracy.<br/>
-<center>![image](https://user-images.githubusercontent.com/38426238/173165415-36ca8ae8-6f18-43fd-a452-3d71c5c0e7b6.png)</center>
+![image](https://user-images.githubusercontent.com/38426238/173165415-36ca8ae8-6f18-43fd-a452-3d71c5c0e7b6.png)
 
 
 
